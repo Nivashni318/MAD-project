@@ -1,0 +1,15 @@
+{
+  "appId": "com.aiclinicalcopilot.app",
+  "appName": "AI Clinical Copilot",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}
